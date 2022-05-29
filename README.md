@@ -9,5 +9,5 @@ A roguelike game where you're a programmer inside a corrupted videogame, trapped
 
 <p align="center">Tiled, TinyXML y SFML junto a c++.</p>
 
-<h6 align="center"><a url="https://www.youtube.com/watch?v=68yeaUsMal0">Trailer</a></h6>
+<h6 align="center"><a href="https://www.youtube.com/watch?v=68yeaUsMal0">Trailer</a></h6>
 <p align="center"><img src="./caratula.png" width="400" height="600"/></p>
