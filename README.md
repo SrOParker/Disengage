@@ -2,7 +2,7 @@
 
 
 <p align="center">
-A roguelike game where you're a programmer inside a corrupted videogame, trapped in its testing phase. It was made in 2020/2021 for the subject of Fundamentals of Videogames at the University of Alicante.
+A roguelike game where you're a programmer inside a corrupted videogame, trapped in its testing phase. It was made in 2020/2021 from scratch for the subject of Fundamentals of Videogames at the University of Alicante.
 </p>
 
 <h3 align="center">Used tools</h3>
