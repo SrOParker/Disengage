@@ -7,7 +7,7 @@ A roguelike game where you're a programmer inside a corrupted videogame, trapped
 
 <h3 align="center">Used tools</h3>
 
-<p align="center">Tiled, TinyXML y SFML junto a c++.</p>
+<p align="center">Tiled, TinyXML, SFML and c++.</p>
 
 <h6 align="center"><a href="https://www.youtube.com/watch?v=68yeaUsMal0">Trailer</a></h6>
 <p align="center"><img src="./caratula.png" width="400" height="600"/></p>
