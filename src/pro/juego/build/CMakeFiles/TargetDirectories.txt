@@ -1,0 +1,6 @@
+/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build/CMakeFiles/edit_cache.dir
+/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build/CMakeFiles/MiJuego.dir
+/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build/CMakeFiles/libModulos.dir
+/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build/ej_modulos/CMakeFiles/edit_cache.dir
+/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build/ej_modulos/CMakeFiles/rebuild_cache.dir

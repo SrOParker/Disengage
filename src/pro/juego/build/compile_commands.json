@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/MiJuego.dir/main.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/main.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/main.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Motor2D.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Motor2D.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Motor2D.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Sprite1.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Sprite1.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Sprite1.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Partida.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Partida.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Partida.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Nivel.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Nivel.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Nivel.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Menu.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Menu.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Menu.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Escena.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Escena.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Escena.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Objeto.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Objeto.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Objeto.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/PersonajeBase.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/PersonajeBase.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/PersonajeBase.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/PersonajePrincipal.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/PersonajePrincipal.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/PersonajePrincipal.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/O_ataque.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_ataque.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_ataque.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/O_rango.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_rango.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_rango.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/O_vAtaque.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_vAtaque.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_vAtaque.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/O_velocidad.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_velocidad.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_velocidad.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/O_vida.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_vida.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_vida.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Armas.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Armas.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Armas.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Hud.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Hud.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Hud.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Enemigos.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Enemigos.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Enemigos.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Mapa.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Mapa.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Mapa.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/tinystr.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinystr.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinystr.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/tinyxml.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinyxml.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinyxml.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/tinyxmlerror.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinyxmlerror.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinyxmlerror.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/tinyxmlparser.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinyxmlparser.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/tinyxmlparser.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Linterna.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Linterna.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Linterna.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Npc_Mejora.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Npc_Mejora.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Npc_Mejora.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Npc_desbloqueo_objetos.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Npc_desbloqueo_objetos.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Npc_desbloqueo_objetos.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/O_Trampa.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_Trampa.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_Trampa.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/O_maldito.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_maldito.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/O_maldito.cpp"
+},
+{
+  "directory": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/build",
+  "command": "/usr/bin/c++    -I/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos   -std=c++1y -Wall -Wextra -g   -o CMakeFiles/libModulos.dir/ej_modulos/Juego.cpp.o -c /home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Juego.cpp",
+  "file": "/home/osboxes/Escritorio/FV/proyectoabp-grupo-b5/src/pro/juego/ej_modulos/Juego.cpp"
+}
+]
